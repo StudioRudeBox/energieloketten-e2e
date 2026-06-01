@@ -1,6 +1,6 @@
 # wel-test
 
-Playwright end-to-end test suite for the Wel website. Tests are written in TypeScript using the Page Object Model pattern.
+Playwright end-to-end test suite for the energieloketten.nl website. Tests are written in TypeScript using the Page Object Model pattern.
 
 ## Project structure
 
